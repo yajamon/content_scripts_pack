@@ -1,0 +1,28 @@
+{
+  "name": "content_scripts_pack",
+  "version": "1.0.0",
+  "description": "Content Scripts package. for Chrome Extension.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yajamon@github.com/yajamon/content_scripts_pack.git"
+  },
+  "keywords": [
+    "chrome-extension"
+  ],
+  "author": "yajamon <yajamon.tatsuki@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yajamon/content_scripts_pack/issues"
+  },
+  "homepage": "https://github.com/yajamon/content_scripts_pack#readme",
+  "private": true,
+  "devDependencies": {
+    "@types/chrome": "0.0.77",
+    "tslint": "^5.12.1",
+    "typescript": "^3.2.2"
+  }
+}
