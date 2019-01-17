@@ -1,0 +1,12 @@
+{
+  "name": "yajamon-content-scripts-pack",
+  "version": "1.0.0",
+  "description": "Content Scripts package. for Chrome Extension.",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": "",
+      "js": [""]
+    }
+  ]
+}
